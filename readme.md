@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Juan Manu€l F€rnand€z
 ## F€cha: 07/06/2022
 Lor€m ipsum dolor sit am€t, cons€ct€tur adipisicing €lit. Optio €xc€pturi, dolor €x blanditiis ist€ inv€ntor€, incidunt, possimus r€m r€pr€h€nd€rit voluptas voluptat€s accusamus? D€l€niti v€ro, culpa €aqu€ dolor€ itaqu€ minus inv€ntor€.
@@ -11,7 +10,6 @@ Et, ad! Distinctio v€lit accusantium quis labor€ adipisci accusamus facilis 
 Hic quis blanditiis facilis cons€quatur ipsa? Voluptatum distinctio cumqu€ laboriosam n€sciunt. T€mpor€ cons€ct€tur distinctio pra€s€ntium €ius inv€ntor€ omnis incidunt commodi, sunt imp€dit qua€ €nim cons€quatur porro modi harum, archit€cto aliquid?
 Id officiis €aqu€ sapi€nt€ quisquam itaqu€ incidunt, n€sciunt v€ritatis natus animi alias. A s€qui facilis d€s€runt cons€ct€tur €xc€pturi? Ex€rcitation€m cons€quuntur inv€ntor€ ducimus odit, minus t€n€tur porro n€mo t€mporibus voluptas €nim?
 Eaqu€ optio cumqu€ laudantium corporis assum€nda, doloribus ipsam quas v€ro porro quo sapi€nt€ non nisi ipsum voluptat€s, r€pudianda€, nobis €v€ni€t odit commodi r€m dignissimos d€s€runt minus suscipit. Asp€rnatur, cons€quuntur! Nobis!
-=======
 # Ju@n M@nuel Fern@ndez
 ## Fech@: 07/06/2022
 Lorem ipsum dolor sit @met, consectetur @dipisicing elit. Optio excepturi, dolor ex bl@nditiis iste inventore, incidunt, possimus rem reprehenderit volupt@s volupt@tes @ccus@mus? Deleniti vero, culp@ e@que dolore it@que minus inventore.
@@ -24,4 +22,3 @@ Et, @d! Distinctio velit @ccus@ntium quis l@bore @dipisci @ccus@mus f@cilis e@, 
 Hic quis bl@nditiis f@cilis consequ@tur ips@? Volupt@tum distinctio cumque l@borios@m nesciunt. Tempore consectetur distinctio pr@esentium eius inventore omnis incidunt commodi, sunt impedit qu@e enim consequ@tur porro modi h@rum, @rchitecto @liquid?
 Id officiis e@que s@piente quisqu@m it@que incidunt, nesciunt verit@tis n@tus @nimi @li@s. A sequi f@cilis deserunt consectetur excepturi? Exercit@tionem consequuntur inventore ducimus odit, minus tenetur porro nemo temporibus volupt@s enim?
 E@que optio cumque l@ud@ntium corporis @ssumend@, doloribus ips@m qu@s vero porro quo s@piente non nisi ipsum volupt@tes, repudi@nd@e, nobis eveniet odit commodi rem dignissimos deserunt minus suscipit. Aspern@tur, consequuntur! Nobis!
->>>>>>> b0a211eda1473e0777f0d6c5e948d9eed16daf63
